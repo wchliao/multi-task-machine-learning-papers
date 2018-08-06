@@ -8,13 +8,11 @@ A list of papers that are relevant to multi-task machine learning. Inspired by
 
  * [Hard Parameter Sharing](#hard-parameter-sharing)
  * [Soft Parameter Sharing](#soft-parameter-sharing)
+ * [Neural Architecture Search](#neural-architecture-search)
  * [Others](#others)
 
 ## Hard Parameter Sharing
 
- * [Evolutionary Architecture Search For Deep Multitask Networks](https://arxiv.org/pdf/1803.03745.pdf).  
-   Jason Liang, Elliot Meyerson, Risto Miikkulainen.  
-   Genetic and Evolutionary Computation Conference (GECCO) 2018.
  * [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/pdf/1711.05769.pdf).  
    Arun Mallya, Svetlana Lazebnik.  
    CVPR 2018.
@@ -34,11 +32,17 @@ A list of papers that are relevant to multi-task machine learning. Inspired by
    Ishan Misra, Abhinav Shrivastava, Abhinav Gupta, Martial Hebert.  
    CVPR 2016.
 
-## Others
+## Neural Architecture Search 
 
+ * [Evolutionary Architecture Search For Deep Multitask Networks](https://arxiv.org/pdf/1803.03745.pdf).  
+   Jason Liang, Elliot Meyerson, Risto Miikkulainen.  
+   Genetic and Evolutionary Computation Conference (GECCO) 2018.
  * [Transfer Learning to Learn with Multitask Neural Model Search](https://arxiv.org/pdf/1710.10776.pdf).  
    Catherine Wong, Andrea Gesmundo.  
    arXiv preprint 2017.
+
+## Others
+
  * [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/pdf/1706.05098.pdf).  
    Sebastian Ruder.  
    arXiv preprint 2017.
