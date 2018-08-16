@@ -25,6 +25,9 @@ A list of papers that are relevant to multi-task machine learning. Inspired by
  * [Unifying and Merging Well-trained Deep Neural Networks for Inference Stage](https://arxiv.org/pdf/1805.04980.pdf).  
    Yi-Min Chou, Yi-Ming Chan, Jia-Hong Lee, Chih-Yi Chiu, Chu-Song Chen.  
    IJCAI-ECAI 2018.
+ * [Multi-task Sequence to Sequence Learning](https://arxiv.org/pdf/1511.06114.pdf).  
+   Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals, Lukasz Kaiser.  
+   ICLR 2016.
 
 ## Soft Parameter Sharing
 
