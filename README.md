@@ -46,6 +46,9 @@ A list of papers that are relevant to multi-task machine learning. Inspired by
 
 ## Others
 
+ * [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf).  
+   Alex Kendall, Yarin Gal, Roberto Cipolla.  
+   CVPR 2018.
  * [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/pdf/1706.05098.pdf).  
    Sebastian Ruder.  
    arXiv preprint 2017.
