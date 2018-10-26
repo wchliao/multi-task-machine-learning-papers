@@ -16,6 +16,9 @@ A list of papers that are relevant to multi-task machine learning. Inspired by
  * [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/pdf/1711.05769.pdf).  
    Arun Mallya, Svetlana Lazebnik.  
    CVPR 2018.
+ * [Pseudo-task Augmentation: From Deep Multitask Learning to Intratask Sharing—and Back](https://arxiv.org/pdf/1803.04062.pdf).  
+   Elliot Meyerson, Risto Miikkulainen.  
+   ICML 2018.
  * [Beyond Shared Hierarchies: Deep Multitask Learning through Soft Layer Ordering](https://arxiv.org/pdf/1711.00108.pdf).  
    Elliot Meyerson, Risto Miikkulainen.  
    ICLR 2018.
