@@ -52,6 +52,9 @@ A list of papers that are relevant to multi-task machine learning. Inspired by
  * [AutoLoss: Learning Discrete Schedules for Alternate Optimization](https://arxiv.org/pdf/1810.02442.pdf).  
    Haowen Xu, Hao Zhang, Zhiting Hu, Xiaodan Liang, Ruslan Salakhutdinov, Eric Xing.  
    arXiv preprint 2018.
+ * [Dynamic Task Prioritization for Multitask Learning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Focus_on_the_ECCV_2018_paper.pdf).  
+   Michelle Guo, Albert Haque, De-An Huang, Serena Yeung, Li Fei-Fei.  
+   ECCV 2018.
  * [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/pdf/1705.07115.pdf).  
    Alex Kendall, Yarin Gal, Roberto Cipolla.  
    CVPR 2018.
